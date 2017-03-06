@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\5GraduationJava\\Android\\project\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\release\\xml\\authenticator.xml",
+        "source": "D:\\5GraduationJava\\Android\\project\\BasicSyncAdapter\\Application\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "D:\\5GraduationJava\\Android\\project\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\release\\xml\\syncadapter.xml",
+        "source": "D:\\5GraduationJava\\Android\\project\\BasicSyncAdapter\\Application\\src\\main\\res\\xml\\syncadapter.xml"
+    }
+]

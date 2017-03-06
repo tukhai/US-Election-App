@@ -1,0 +1,7 @@
+#Tue Oct 18 15:35:43 SGT 2016
+base.0=D\:\\5GraduationJava\\Android\\project\\BasicSyncAdapter\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d2c50088428109d1d1f0b7383777064f3a953875
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\5GraduationJava\\Android\\project\\BasicSyncAdapter\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ee9760b4990429a73c890401e5c7cc2618c3c7ee\\classes.dex
+base.1=D\:\\5GraduationJava\\Android\\project\\BasicSyncAdapter\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ee9760b4990429a73c890401e5c7cc2618c3c7ee
+file.0=D\:\\5GraduationJava\\Android\\project\\BasicSyncAdapter\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d2c50088428109d1d1f0b7383777064f3a953875\\classes.dex

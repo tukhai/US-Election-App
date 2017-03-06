@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.1.1_62c2ec4fb6f8be90790c4f913f9fc38b51395697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJavaAndroid1\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_9035e86529562e0ab3cdc89fdec1316de6698f0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_ea1437f8d96df8fb315348544ba6be8f78503dce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d40f261dea16cf56ccbb7dda37129b56234cea32">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d2c50088428109d1d1f0b7383777064f3a953875\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_3f8647ea2030821b5d0410f01d9b86644006b4d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_8a33f16a9e54fbd3f506f1be4166ebd2b8fbb829\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_f8e0993b0645b5c17087e41ee11d136126f95dc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_8001aaa0e385b161e7415196a60c5accb760eee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5644d8e47f5732f558fb2d41c3219c928b53fa21">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ee9760b4990429a73c890401e5c7cc2618c3c7ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\5GraduationJava\Android\project\BasicSyncAdapter\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_4b0729084032803394ee20b6ce6b08edba27f6cc\classes.dex" />
+    </item>
+
+</items>
